@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I`m Vadim
+
+- 🌱 I’m currently learning Node.js
+- 📫 How to reach me: vadim.di.vladimirov@gmail.com
+- ⚡ Fun fact: There Is No Magic Pill
+
+### My stack and tools
+
+<img align="left" alt="JavaScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
 
 <!--
 **diVladimirov/diVladimirov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
