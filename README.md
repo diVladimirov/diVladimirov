@@ -36,7 +36,7 @@ Image searcher: https://divladimirov.github.io/goit-react-hw-04-hooks-images/<br
 <b>JavaScript</b><br>
 Movie searcher: https://dimmac.github.io/JS-project_command5/<br>
 Image finder: https://divladimirov.github.io/goit-js-hw-11/<br>
-County searcher: https://divladimirov.github.io/goit-js-hw-10/<br>
+Country searcher: https://divladimirov.github.io/goit-js-hw-10/<br>
 Countdown timer: https://divladimirov.github.io/goit-js-hw-09/02-timer.html<br>
 Color switcher: https://divladimirov.github.io/goit-js-hw-09/01-color-switcher.html<br>
 Image gallery: https://divladimirov.github.io/goit-js-hw-08/01-gallery.html<br>
