@@ -23,17 +23,17 @@
 <hr>
 <b>Pet projects</b>
 
-<b>Full Stack</b>
-SPA for control you daily norm of calories<br>
+<b>Full Stack</b><br>
+SPA for control you daily norm of calories<br><br>
 Front end: https://slimmom-project-team6.netlify.app<br>
 Back end: https://slimmom-project-team6.herokuapp.com/api-docs/<br>
 
-<b>React</b>
+<b>React</b><br>
 Phonebook: https://divladimirov-goit-react-hw-08-phonebook.netlify.app<br>
 Movie information site: https://divladimirov.github.io/goit-react-hw-05-movies-router6/<br>
 Image searcher: https://divladimirov.github.io/goit-react-hw-04-hooks-images/<br>
 
-<b>JavaScript</b>
+<b>JavaScript</b><br>
 Movie searcher: https://dimmac.github.io/JS-project_command5/<br>
 Image finder: https://divladimirov.github.io/goit-js-hw-11/<br>
 County searcher: https://divladimirov.github.io/goit-js-hw-10/<br>
@@ -41,7 +41,7 @@ Countdown timer: https://divladimirov.github.io/goit-js-hw-09/02-timer.html<br>
 Color switcher: https://divladimirov.github.io/goit-js-hw-09/01-color-switcher.html<br>
 Image gallery: https://divladimirov.github.io/goit-js-hw-08/01-gallery.html<br>
 
-<b>HTML/CSS</b>
+<b>HTML/CSS</b><br>
 Multi-Page Aplication: https://dimatomilow.github.io/3D-Mode-team5/<br>
 Multi-Page Aplication : https://divladimirov.github.io/goit-markup-hw-08/<br>
 
