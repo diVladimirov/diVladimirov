@@ -20,6 +20,31 @@
 <img align="left" alt="Npm" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
 <img align="left" alt="Docker" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 
+<hr>
+<b>Pet projects</b>
+
+<b>Full Stack</b>
+SPA for control you daily norm of calories
+Front end: https://slimmom-project-team6.netlify.app
+Back end: https://slimmom-project-team6.herokuapp.com/api-docs/
+
+<b>React</b>
+Phonebook: https://divladimirov-goit-react-hw-08-phonebook.netlify.app
+Movie information site: https://divladimirov.github.io/goit-react-hw-05-movies-router6/
+Image searcher: https://divladimirov.github.io/goit-react-hw-04-hooks-images/
+
+<b>JavaScript</b>
+Movie searcher: https://dimmac.github.io/JS-project_command5/
+Image finder: https://divladimirov.github.io/goit-js-hw-11/
+County searcher: https://divladimirov.github.io/goit-js-hw-10/
+Countdown timer: https://divladimirov.github.io/goit-js-hw-09/02-timer.html
+Color switcher: https://divladimirov.github.io/goit-js-hw-09/01-color-switcher.html
+Image gallery: https://divladimirov.github.io/goit-js-hw-08/01-gallery.html
+
+<b>HTML/CSS</b>
+Multi-Page Aplication: https://dimatomilow.github.io/3D-Mode-team5/
+Multi-Page Aplication : https://divladimirov.github.io/goit-markup-hw-08/
+
 
 
 
