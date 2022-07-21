@@ -21,10 +21,9 @@
 <img align="left" alt="Docker" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <br>
 <hr>
-<b>Pet projects</b>
-
+<b>Pet projects</b><br>
 <b>Full Stack</b><br>
-SPA for control you daily norm of calories<br><br>
+SPA for control you daily norm of calories<br>
 Front end: https://slimmom-project-team6.netlify.app<br>
 Back end: https://slimmom-project-team6.herokuapp.com/api-docs/<br>
 
