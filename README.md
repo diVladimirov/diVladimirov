@@ -1,6 +1,6 @@
 ### Hi there 👋, I`m Vadim
 
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning Nest.js
 - 📫 How to reach me: vadim.di.vladimirov@gmail.com
 - ⚡ Fun fact: There Is No Magic Pill
 
