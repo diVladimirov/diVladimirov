@@ -1,6 +1,6 @@
 ### Hi there 👋, I`m Vadim
 
-- 🌱 I’m currently learning Nest.js
+- 🌱 I’m currently learning Next.js and Nest.js
 - 📫 How to reach me: vadim.di.vladimirov@gmail.com
 - ⚡ Fun fact: There Is No Magic Pill
 
@@ -21,6 +21,10 @@
 <img align="left" alt="Docker" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <br>
 <hr>
+<br>
+<hr>
+https://www.codewars.com/users/diVladimirov/badges/large
+<br>
 <b>Pet projects</b><br>
 </br>
 <b>Full Stack</b><br>
