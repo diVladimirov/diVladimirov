@@ -29,7 +29,7 @@
 </br>
 <b>Full Stack</b><br>
 
-Netflix Clone: next-netflix-rose.vercel.app<br>
+Netflix Clone: [next-netflix-rose.vercel.app](https://next-netflix-rose.vercel.app/auth)<br>
 
 SPA for control you daily norm of calories<br>
 Front end: https://slimmom-project-team6.netlify.app<br>
