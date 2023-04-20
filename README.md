@@ -28,6 +28,9 @@
 <b>Pet projects</b><br>
 </br>
 <b>Full Stack</b><br>
+
+Netflix Clone: next-netflix-rose.vercel.app<br>
+
 SPA for control you daily norm of calories<br>
 Front end: https://slimmom-project-team6.netlify.app<br>
 Back end: https://slimmom-project-team6.herokuapp.com/api-docs/<br>
